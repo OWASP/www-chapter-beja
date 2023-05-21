@@ -1,6 +1,6 @@
 ### Beja Information
 
-The OWASP Beja Chapter was founded in 2023 aiming to to develop a dynamic and
+The OWASP Beja Chapter was founded in 2023 aiming to develop a dynamic and
 vibrant security community in town, promoting knowledge sharing and
 collaboration, in order to create and spread security awareness.
 
