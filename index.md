@@ -49,7 +49,8 @@ By presenting at our events, you have the opportunity to inspire others, expand
 your professional network, and contribute to the growth of the cybersecurity
 community. The call for speakers is always open, so seize the chance to make a
 lasting impact and help shape the future of application security. Check the
-[OWASP Speaker Agreement] and **submit your presentation today**: LINK GOOGLE FORMS!
+[OWASP Speaker Agreement] and **[submit your presentation
+today][cft]{:target='_blank'}**!
 
 
 [Chapters Policy]: /www-policy/operational/chapters
@@ -62,3 +63,4 @@ lasting impact and help shape the future of application security. Check the
 [donation]: /donate/
 [speak]: #speaking-at-owasp-beja-chapter-events
 [OWASP Speaker Agreement]: /www-policy/legal/speaker-agreement
+[cft]: https://forms.gle/XYLSQMeGtJgnjSPc7
