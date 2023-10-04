@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Beja
 tags: pastevents-tag
 region: Europe
+country: Portugal
 meetup-group:
 
 ---
