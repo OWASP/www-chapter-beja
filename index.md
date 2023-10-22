@@ -5,7 +5,7 @@ title: OWASP Beja
 tags: pastevents-tag
 region: Europe
 country: Portugal
-meetup-group:
+meetup-group: owasp-beja-chapter
 
 ---
 
@@ -20,11 +20,7 @@ cybersecurity, then this is the right place for you!
 
 ## Next Meeting/Event
 
-_Coming soon_
-
-{% comment %}
 {% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
 
 ## Participation
 
