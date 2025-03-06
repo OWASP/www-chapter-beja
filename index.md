@@ -9,6 +9,15 @@ meetup-group: owasp-beja-chapter
 
 ---
 
+<div class="alert">
+  <p style="text-align:center">
+    Sponsor an OWASP Beja Meetup & make an impact!
+    <a href="https://forms.gle/Yq3qPhcixJGnNgMRA">
+      Apply now
+    </a>
+  </p>
+</div>
+
 ## Welcome
 
 At OWASP Beja, we believe that **knowledge sharing and collaboration are key to
