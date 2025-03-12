@@ -9,6 +9,8 @@ meetup-group: owasp-beja-chapter
 
 ---
 
+{% include scripts.html %}
+
 <div class="alert">
   <p style="text-align:center">
     Sponsor an OWASP Beja Meetup & make an impact!
