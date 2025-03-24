@@ -12,6 +12,15 @@ tags: pastevents-tag
 _Seize the chance to make a lasting impact and help shape the future of
 application security: [check out how to speak at OWASP Beja][1]._
 
+### Mar 21st, 2025 - 0x02 Break It Till You Make It
+
+Sponsored by [Dashlane][7]{:rel="nofollow"}
+
+* [From Theory to Practice: Navigating the Challenges of Vulnerability Research][8]  
+  _by Raphael Silva, Security Research Lead @ Checkmarx_
+* [Speed Bumps and Speed Hacks: Adventures in Car Manufacturers Security][9]  
+  _by Paulo Silva, Principal Security Researcher @ Cahr49_
+
 ### May 23rd, 2024 - 0x01 Securing the Web
 
 Sponsored by [Checkmarx][4]{:rel="nofollow"}
@@ -34,3 +43,6 @@ Sponsored by [Checkmarx][4]{:rel="nofollow"}
 [4]: https://checkmarx.com/?utm_source=owasp&utm_medium=sponsorship&utm_campaign=owasp-beja
 [5]: https://www.slideshare.net/slideshow/0x01-purple-team-approach-towards-confluence-rce/269418546
 [6]: https://www.slideshare.net/slideshow/0x01-newton-s-third-law-static-vs-dynamic-abusers/269418612
+[7]: https://www.dashlane.com/?utm_source=owasp&utm_medium=sponsorship&utm_campaign=owasp-beja
+[8]: https://www.slideshare.net/slideshow/0x02-from-theory-to-practice-navigating-the-challenges-of-vulnerability-research/277139828
+[9]: https://www.slideshare.net/slideshow/0x02-speed-bumps-and-speed-hacks-adventures-in-car-manufacturers-securitypresentation/277140041
