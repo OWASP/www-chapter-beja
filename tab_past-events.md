@@ -12,6 +12,15 @@ tags: pastevents-tag
 _Seize the chance to make a lasting impact and help shape the future of
 application security: [check out how to speak at OWASP Beja][1]._
 
+### Jun 27th, 2025 - 0x03 Assumption: Failed
+
+Sponsored by [Char49][10]{:rel="nofollow"}
+
+* The Parking Chronicles - A DIY Guide to Controller Detection  
+  _by David Sopas, Co-Founder & COO @ Char49_
+* [Aged Like a Fine Port: Old Yet Impactful][11]  
+  _by Paulo Silva, Principal Security Researcher @ Char49_
+
 ### Mar 21st, 2025 - 0x02 Break It Till You Make It
 
 Sponsored by [Dashlane][7]{:rel="nofollow"}
@@ -19,7 +28,7 @@ Sponsored by [Dashlane][7]{:rel="nofollow"}
 * [From Theory to Practice: Navigating the Challenges of Vulnerability Research][8]  
   _by Raphael Silva, Security Research Lead @ Checkmarx_
 * [Speed Bumps and Speed Hacks: Adventures in Car Manufacturers Security][9]  
-  _by Paulo Silva, Principal Security Researcher @ Cahr49_
+  _by Paulo Silva, Principal Security Researcher @ Char49_
 
 ### May 23rd, 2024 - 0x01 Securing the Web
 
@@ -46,3 +55,6 @@ Sponsored by [Checkmarx][4]{:rel="nofollow"}
 [7]: https://www.dashlane.com/?utm_source=owasp&utm_medium=sponsorship&utm_campaign=owasp-beja
 [8]: https://www.slideshare.net/slideshow/0x02-from-theory-to-practice-navigating-the-challenges-of-vulnerability-research/277139828
 [9]: https://www.slideshare.net/slideshow/0x02-speed-bumps-and-speed-hacks-adventures-in-car-manufacturers-securitypresentation/277140041
+[10]: https://char49.com/?utm_source=owasp&utm_medium=sponsorship&utm_campaign=owasp-beja
+[11]: https://www.slideshare.net/slideshow/0x03-aged-like-a-fine-port-old-yet-impactful/282691390
+
