@@ -1,0 +1,24 @@
+leaders:
+  - name: Paulo Silva
+    email: paulo.silva@owasp.org
+    github: PauloASilva
+  - name: Rui Silva
+    email: rui.silva@owasp.org
+location:
+  country: Portugal
+  country_code: PT
+  region: Beja
+  city: Beja
+  latitude: 38.0154479
+  longitude: -7.8650368
+meetup_group: owasp-beja-chapter
+name: OWASP Beja
+repositories:
+  - name: www-chapter-beja
+    url: https://github.com/OWASP/www-chapter-beja
+    description: OWASP Beja Chapter Web Repository
+tags:
+  - pastevents-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-beja
